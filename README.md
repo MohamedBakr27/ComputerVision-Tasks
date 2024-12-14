@@ -1,4 +1,4 @@
 # ComputerVision-Tasks
-Name: Mohamed Bakr
-Department: Computer Science
+Name: Mohamed Bakr <br>
+Department: Computer Science <br>
 Section: 3
